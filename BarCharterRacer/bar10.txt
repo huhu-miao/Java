@@ -1,0 +1,10 @@
+Beijing 22674 EastAsia
+Cairo  19850 MiddleEast
+Delhi  27890 SouthAsia
+Dhaka    19633 SouthAsia
+MexicoCity  21520  LatinAmerica
+Mumbai  22120 SouthAsia
+Osaka 20409 EastAsia
+SãoPaulo 21698 LatinAmerica
+Shanghai 25779 EastAsia
+Tokyo 38194 EastAsia
